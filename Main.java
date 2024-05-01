@@ -1,7 +1,3 @@
-// Yash Patel
-// 5/1/24
-// CMP233 Final Project - Calculator Project
-
 import java.util.*;
 import java.io.*;
 
